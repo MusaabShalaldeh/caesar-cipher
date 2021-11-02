@@ -19,3 +19,9 @@ Version 0.1.1, Finished lab requirements.
 
 Open Pull Requests
 [Pull Request One](https://github.com/MusaabShalaldeh/caesar-cipher/pull/1)
+
+
+
+### Credits:
+
+Thanks to Jehad Abu Awwad for help with crack method.
